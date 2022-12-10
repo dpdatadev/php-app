@@ -56,7 +56,7 @@ try { //user is already logged in - send em' home
         echo '<label class="text-danger">' . $message . '</label>';
     }
     ?>
-    <h3 align="">Orthodox Portal Sign Up</h3><br/>
+    <h3 align="">My Website Sign Up</h3><br/>
     <form method="post">
         <label>Username</label>
         <input type="text" name="username" class="form-control"/>
